@@ -7,6 +7,12 @@ Aguardem as melhorias e seguimos estudando, qualquer dica ou duvidas estou à di
 Whastapp: 62998684030
 
 
+# Versão
+Angular: 12.2.12
+Node: 16.13.2
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.12.
 
 ## Development server

@@ -1,95 +1,32 @@
-body{
+*{
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  color: #fff;
+}
+body{
   background-color: #040413;
 }
-
 
 
 .containerNavBar{
 
   font-family: "Baloo Paaji 2", sans-serif;
-  font-weight: regular;
-  letter-spacing: 4%;
   font-size: 24px;
   margin: 20px 250px;
+  padding-left: 10px;
+
 }
 .containerNavBar a{
   color: #fff;
   text-decoration: none;
+  list-style-type: none;
 
 }
 .containerNavBar a:hover{
   color: #F5DF4D;
+  border-bottom: 1px solid #FFF;
 }
 
-.containerNavBar .active{
-
-  color: #F5DF4D;
-}
-.containerNavBar .active:hover{
-
-  color: #FFF;
-}
-
-.containerHomeApresentacao{
-  font-family: "Source Serif Pro", sans-serif;
-  display: flex;
-  flex-direction: column;
-  margin-left: 100px;
-  margin-top: 250px;
-}
-.containerHomeApresentacao > p{
-
-  border: 3px solid #F5DF4D;
-  width: 60px;
-  padding-right: 50px;
 
 
 
-}
-
-.homeOla{
-  font-family: "Baloo Paaji 2", sans-serif;
-  font-weight: regular;
-  font-size: 32px;
-  padding-left: 70px;
-  margin-top: -40px;
-}
-
-.containerHomeApresentacao h2{
-  display: flex;
-  flex-direction: column;
-  font-family: "Source Serif Pro", sans-serif;
-  font-weight: bold;
-  font-size: 80px;
-  padding-left: 70px;
-  margin-top: -15px;
-
-}
-.containerHomeApresentacao h2 > span{
-  color: #F5DF4D;
-  margin-top: -15px;
-}
-
-.containerHomeApresentacao h5{
-  font-family: "Source Serif Pro", sans-serif;
-  font-size: 24px;
-  padding-left: 70px;
-  margin-top: -15px;
-
-}
-
-.homeIcones i{
-  font-size: 25px;
-  color: #fff;
-  padding-left: 70px;
-  margin-top: 20px;
-}
-
-.containerHomeApresentacao .homeHabilidades {
-  background-image: url(../src/img/homeIcones.svg);
-
-}
