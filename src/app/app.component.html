@@ -1,5 +1,21 @@
-
 <body>
+  <div class="containerNavBar">
+    <nav class="navBar">
+      <ul class="nav justify-content-end">
+        <li class="nav-item">
+          <a class="nav-link button " href="#">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link button" routerLink="/experiencia" routerLinkActive="activebutton"
+          ariaCurrentWhenActive="page">Experiência</a>
+        </li>
+        <li class="nav-item button">
+          <a class="nav-link" routerLink="/sobre" >Sobre</a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+
   <div class="containerHome">
     <div class="containerHomeApresentacao animate__animated animate__zoomIn">
       <p class="homeLinhaAmarela"></p>
@@ -22,5 +38,6 @@
       <!-- <a href="../assets/img/homeHabilidades.svg" class="homeHabilidades">aaa</a> -->
     </div>
   </div>
-
+  <router-outlet></router-outlet>
 </body>
+

@@ -2,6 +2,26 @@ body{
   color: #fff;
   background-color: #040413;
  }
+
+ .containerNavBar{
+
+  font-family: "Baloo Paaji 2", sans-serif;
+  font-size: 24px;
+  margin: 20px 250px;
+  padding-left: 10px;
+
+}
+.containerNavBar a{
+  color: #fff;
+  text-decoration: none;
+  list-style-type: none;
+
+}
+.containerNavBar a:hover{
+  color: #F5DF4D;
+  border-bottom: 1px solid #FFF;
+}
+
 .containerHome{
   display: flex;
   flex-direction: row;
