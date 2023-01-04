@@ -1,6 +1,8 @@
 # Portfolio
 Olá, me chamo Lucas Brandão e esse é meu portfolio, versão 2.0!
 Fiz esse portfolio inicial para praticar o que vinha aprendendo até o momento, HTML, CSS, Angular, TypeScript e JavaScript!
+Todo o designer foi criado no figma antes de começar a codar.
+
 Desculpe a bagunça no codigo, ainda estou em fase de aprendizado e adquirindo boas praticas. 
 
 Aguardem as melhorias e seguimos estudando, qualquer dica ou duvidas estou à disposição
