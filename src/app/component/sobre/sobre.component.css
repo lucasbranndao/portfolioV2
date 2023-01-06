@@ -1,0 +1,131 @@
+.titlePersonagem, .listaCursosConcluidos, .listaCursosAndmentos, .listaCursosFazer{
+  display: flex;
+  flex-direction: column;
+  padding-left: 100px;
+  font-family: "Baloo Paaji 2", sans-serif;
+
+}
+h1{
+  display: flex;
+  flex-direction: column;
+  font-family: "Source Serif Pro", sans-serif;
+  font-weight: bold;
+  font-size: 80px;
+  color: #F5DF4D;
+
+}
+
+h3{
+  font-family: "Source Serif Pro", sans-serif;
+  font-weight: bold;
+  color: #F5DF4D;
+  margin-top: 40px;
+  margin-bottom: 20px;
+
+}
+
+.escolaridade{
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+.empregoAtual{
+  display: flex;
+  flex-direction: row;
+  font-size: 18px;
+  margin-top: -10px;
+  margin-left: 15px;
+
+
+}
+.empregoAtual > i {
+  color: #F5DF4D;
+}
+.empregoAtual > p{
+  padding-left: 5px;
+  font-size: 16px;
+
+}
+
+.funcaoAtual{
+  display: flex;
+  flex-direction: row;
+  font-size: 18px;
+  margin-left: 20px;
+  margin-left: 35px;
+}
+.funcaoAtual > i{
+  color: #F5DF4D;
+
+}
+
+.funcaoAtual > p{
+  padding-left: 5px;
+  font-size: 16px;
+
+}
+
+.cursosConcluidos {
+  display: flex;
+  flex-direction: row;
+  font-size: 18px;
+
+}
+
+.cursosConcluidos > i{
+  color: #F5DF4D;
+
+}
+
+.cursosConcluidos > p{
+  padding-left: 5px;
+  font-size: 16px;
+
+}
+
+.cursosAndmentos {
+  display: flex;
+  flex-direction: row;
+  font-size: 18px;
+
+}
+
+.cursosAndmentos > i{
+  color: #F5DF4D;
+
+}
+
+.cursosAndmentos > p{
+  padding-left: 5px;
+  font-size: 16px;
+
+}
+
+.cursosFazer {
+  display: flex;
+  flex-direction: row;
+   font-size: 18px;
+
+}
+
+.cursosFazer > i{
+  color: #F5DF4D;
+
+}
+
+.cursosFazer > p{
+  padding-left: 5px;
+  font-size: 16px;
+  width: auto;
+  height: auto;
+
+}
+
+.fotoPersonagem{
+  display: flex;
+  justify-content: flex-end;
+  margin-top: -1050px;
+  margin-right: 100px;
+
+
+}
