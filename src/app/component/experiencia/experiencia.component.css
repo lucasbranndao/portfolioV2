@@ -1,13 +1,19 @@
+
+
+
 section{
   display: flex;
   flex-direction: row;
-  margin: 50px 0px 0px 50px;
+  /* margin: 50px 0px 0px 50px; */
 
 }
+.fotoTopo{
+  margin-top: 80px;
 
+}
 .nivelSenior > h1{
   font-family: "Source Serif Pro", sans-serif;
-  margin: 70px 0px 0px 30px;
+  margin: 150px 0px 0px 30px;
 
 }
 
@@ -24,17 +30,11 @@ section{
 .titulosMeusProjetos > h2{
   font-family: "Source Serif Pro", sans-serif;
   font-weight: bold;
-  margin: 25px 0px 0px 120px;
+  margin: 25px 0px 0px 30px;
 
 }
 
 .titulosMeusProjetos h2 >span{
   color: #F5DF4D;
-
-}
-
-.fotoBotton{
-  display: flex;
-  justify-content: flex-end;
 
 }

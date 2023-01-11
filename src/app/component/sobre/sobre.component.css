@@ -1,7 +1,7 @@
 .titlePersonagem, .listaCursosConcluidos, .listaCursosAndmentos, .listaCursosFazer{
   display: flex;
   flex-direction: column;
-  padding-left: 100px;
+  padding-left: 50px;
   font-family: "Baloo Paaji 2", sans-serif;
 
 }
@@ -13,6 +13,7 @@ h1{
   font-weight: bold;
   font-size: 80px;
   color: #F5DF4D;
+  margin-top: 80px;
 }
 
 h3{

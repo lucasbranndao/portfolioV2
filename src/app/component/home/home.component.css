@@ -1,3 +1,5 @@
+
+
 .containerHome{
   display: flex;
   flex-direction: row;
@@ -60,3 +62,4 @@
 .homeHabilidades > img{
   padding-right: 100px;
 }
+
